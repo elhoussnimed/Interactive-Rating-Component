@@ -40,6 +40,11 @@ a {
   }
 }
 
+.span-click {
+  background-color: var(--Orange) !important; 
+  color: var(--white) !important;
+}
+
 .parent {
   width: 400px;
   background-image: linear-gradient(
